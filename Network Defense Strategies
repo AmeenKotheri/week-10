@@ -1,0 +1,41 @@
+a. Design defense mechanisms using firewalls, IDS/IPS, and monitoring tools
+
+Firewalls control incoming and outgoing network traffic based on security rules, blocking unauthorized access.
+
+IDS (Intrusion Detection System) monitors traffic and alerts administrators when suspicious activity is detected.
+
+IPS (Intrusion Prevention System) not only detects threats but also blocks or stops them automatically.
+
+Monitoring tools continuously track network activity, logs, and performance to identify anomalies or attacks early.
+
+👉 Together, these tools help protect the network from both external and internal threats.
+
+b. Plan layered defense approaches
+
+A layered defense (Defense in Depth) uses multiple security controls at different levels of the network.
+
+If one layer fails, another layer can still protect the system.
+
+Example layers include:
+
+Network layer (firewalls, IDS/IPS)
+
+Endpoint layer (antivirus, endpoint protection)
+
+Application layer (secure authentication, access controls)
+
+Data layer (encryption, backups)
+
+👉 This approach reduces the risk of a single point of failure.
+
+c. Consider proactive vs. reactive security strategies
+
+Proactive security focuses on preventing attacks before they happen.
+
+Examples: regular patching, vulnerability scanning, security hardening, employee awareness.
+
+Reactive security focuses on responding after an attack occurs.
+
+Examples: incident response, log analysis, containment, and recovery actions.
+
+👉 A strong network defense uses both proactive measures to reduce risks and reactive measures to handle incidents effectively.
