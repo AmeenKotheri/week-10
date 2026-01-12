@@ -1,0 +1,49 @@
+1. Malware
+
+Malware is malicious software designed to damage, steal data, or disrupt systems.
+Examples include viruses, worms, trojans, ransomware, and spyware.
+It can enter a network through infected emails, downloads, or unsafe websites.
+
+2. DDoS (Distributed Denial of Service)
+
+A DDoS attack floods a server or network with massive traffic from multiple systems, making it unavailable to real users.
+The main goal is to crash or slow down services.
+
+3. Phishing
+
+Phishing is a social engineering attack where attackers trick users into revealing sensitive information like passwords or bank details.
+It usually happens through fake emails, messages, or websites that look legitimate.
+
+b. Commonly Exploited Vulnerabilities
+1. Unpatched Systems
+
+Outdated software and operating systems contain known security flaws that attackers can exploit easily.
+
+2. Weak Passwords
+
+Simple or reused passwords allow attackers to gain unauthorized access using brute-force or credential-stuffing attacks.
+
+3. Misconfigured Access Controls
+
+Incorrect permission settings may allow users or attackers to access sensitive data they shouldn’t.
+
+4. Vulnerable Applications
+
+Web applications with poor coding (e.g., SQL injection, XSS flaws) can be exploited to steal or manipulate data.
+
+c. Network Misconfigurations
+1. Open or Unused Ports
+
+Leaving unnecessary ports open increases the attack surface for hackers.
+
+2. Improper Firewall Rules
+
+Incorrect firewall settings may allow unauthorized traffic into the network.
+
+3. Default Credentials
+
+Using default usernames and passwords on routers, switches, or servers is a major security risk.
+
+4. Poor Network Segmentation
+
+Not separating networks (e.g., guest and internal networks) allows attackers to move freely once inside.
